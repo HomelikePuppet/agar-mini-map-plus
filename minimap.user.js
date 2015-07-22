@@ -8,7 +8,7 @@
 // @match        http://agar.io/*
 // @require      http://cdn.jsdelivr.net/msgpack/1.05/msgpack.js
 // @grant        none
-// @downloadURL  
+// @downloadURL  https://github.com/piJoe/agar-mini-map-plus/raw/master/minimap.user.js
 // @run-at       document-body
 // ==/UserScript==
 
